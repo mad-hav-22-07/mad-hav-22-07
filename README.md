@@ -46,5 +46,5 @@
 ### 📊 GitHub Stats:
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mad-hav-22-07&theme=dark&hide_border=true&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mad-hav-22-07&theme=dark&hide_border=true&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20" alt="GitHub Streak" />
 </div>
