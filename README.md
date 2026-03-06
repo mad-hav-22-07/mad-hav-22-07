@@ -43,5 +43,6 @@
 
 <br/>
 
-### 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=mad-hav-22-07&theme=dark&ring=DD6B20&fire=DD6B20&currStreakLabel=DD6B20)
+### 📊 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mad-hav-22-07)](https://git.io/streak-stats)
