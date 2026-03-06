@@ -43,6 +43,6 @@
 
 <br/>
 
-### 📊 
+### 📊 Github Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mad-hav-22-07)](https://git.io/streak-stats)
